@@ -7,7 +7,7 @@ hero:
   text: "zmsk.co"
   tagline: 旧时代的思想解构不了现代人的灵魂
   image:
-    src: /zmsk.png
+    src: /wrqd.png
     alt: 子沐时空
   actions:
     - theme: brand
