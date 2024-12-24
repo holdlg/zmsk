@@ -28,14 +28,11 @@ export default defineConfig({
     nav: zmsk导航,
     sidebar: zmsk侧边栏合集,
         footer: {
-      message: '基于 VitePress 构建',
+      message: 'ICP备案号：<a href="https://beian.miit.gov.cn/" target="_blank">豫ICP备19045526号-4</a>',
       copyright: '版权 © 2024 <a href="https://zmsk.co/" target="_blank">子沐时空</a>'
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/holdlg/zmsk' }
     ]
   },
-  //  async postRender(context: SSGContext) {
-  //   new Stain(context).onStain()
-  // }
 })
